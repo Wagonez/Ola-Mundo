@@ -6,12 +6,15 @@ body{
 img{
     max-height:300pxpx;
     max-width:300px;
+    border-radius:10px;
 }
 article{
     margin-top:20px;
-    width:200px;
+    width:250px;
     background-color:cornsilk;
     margin-left:auto;
     margin-right:auto;
     box-shadow:5px 5px 5px rgba(0, 0, 0, 0.473);
+    padding:20px;
+    border-radius:20px;
 }

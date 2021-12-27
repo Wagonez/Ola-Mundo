@@ -1,0 +1,12 @@
+body{
+    color:chartreuse;
+    background-color:rgb(34, 21, 21);
+    text-align:center;
+}
+img{
+    max-height:300pxpx;
+    max-width:300px;
+}
+article{
+    margin-top:20px;
+}
